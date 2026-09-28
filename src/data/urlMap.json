@@ -1,0 +1,274 @@
+[
+ {
+  "oldUrl": "/",
+  "pageType": "home",
+  "title": "Home",
+  "newUrl": "/",
+  "status": "built",
+  "redirect": "none (same path)"
+ },
+ {
+  "oldUrl": "/treks",
+  "pageType": "trek index",
+  "title": "Trekking in Bhutan",
+  "newUrl": "/treks",
+  "status": "built",
+  "redirect": "none (same path)"
+ },
+ {
+  "oldUrl": "/tours",
+  "pageType": "tour index",
+  "title": "Cultural Tours",
+  "newUrl": "/journeys",
+  "status": "archived — content preserved on old site; not rebuilt in MVP (pending decision)",
+  "redirect": "keep old page reachable or 301 once rebuilt; do not redirect to an unrelated page"
+ },
+ {
+  "oldUrl": "/about",
+  "pageType": "about",
+  "title": "About Us",
+  "newUrl": "/about",
+  "status": "built",
+  "redirect": "none (same path)"
+ },
+ {
+  "oldUrl": "/contact",
+  "pageType": "contact + enquiry form",
+  "title": "Plan your trip.",
+  "newUrl": "/contact",
+  "status": "built",
+  "redirect": "none (same path)"
+ },
+ {
+  "oldUrl": "/treks/show/bumdra-trek",
+  "pageType": "trek detail",
+  "title": "Bumdra Trek",
+  "newUrl": "/treks/bumdra-trek",
+  "status": "built — featured trek",
+  "redirect": "301 /treks/show/bumdra-trek → /treks/bumdra-trek (at launch only)"
+ },
+ {
+  "oldUrl": "/treks/show/dagala-thousand-lakes-trek",
+  "pageType": "trek detail",
+  "title": "Dagala Thousand Lakes Trek",
+  "newUrl": "/treks/dagala-thousand-lakes-trek",
+  "status": "built — featured trek",
+  "redirect": "301 /treks/show/dagala-thousand-lakes-trek → /treks/dagala-thousand-lakes-trek (at launch only)"
+ },
+ {
+  "oldUrl": "/treks/show/druk-path-trek",
+  "pageType": "trek detail",
+  "title": "Druk Path Trek",
+  "newUrl": "/treks/druk-path-trek",
+  "status": "built — featured trek",
+  "redirect": "301 /treks/show/druk-path-trek → /treks/druk-path-trek (at launch only)"
+ },
+ {
+  "oldUrl": "/treks/show/soi-yaksa-trek",
+  "pageType": "trek detail",
+  "title": "Soi Yaksa Trek",
+  "newUrl": "/treks/soi-yaksa-trek",
+  "status": "built — featured trek",
+  "redirect": "301 /treks/show/soi-yaksa-trek → /treks/soi-yaksa-trek (at launch only)"
+ },
+ {
+  "oldUrl": "/treks/show/jomolhari-round-trek",
+  "pageType": "trek detail",
+  "title": "Jomolhari Round Trek",
+  "newUrl": "/treks/jomolhari-round-trek",
+  "status": "built — featured trek",
+  "redirect": "301 /treks/show/jomolhari-round-trek → /treks/jomolhari-round-trek (at launch only)"
+ },
+ {
+  "oldUrl": "/treks/show/laya-lingzhi-trek",
+  "pageType": "trek detail",
+  "title": "Laya – Lingzhi Trek",
+  "newUrl": "/treks/laya-lingzhi-trek",
+  "status": "built — featured trek",
+  "redirect": "301 /treks/show/laya-lingzhi-trek → /treks/laya-lingzhi-trek (at launch only)"
+ },
+ {
+  "oldUrl": "/treks/show/snowman-trek-iv",
+  "pageType": "trek detail",
+  "title": "Snowman Trek IV — Laya to Nikachhu",
+  "newUrl": "/treks/snowman-trek-iv",
+  "status": "built — Snowman route variant (not counted in the seven)",
+  "redirect": "301 /treks/show/snowman-trek-iv → /treks/snowman-trek-iv (at launch only)"
+ },
+ {
+  "oldUrl": "/treks/show/snowman-trek-iii",
+  "pageType": "trek detail",
+  "title": "Snowman Trek III — Gasa to Bumthang",
+  "newUrl": "/treks/snowman-trek-iii",
+  "status": "built — Snowman route variant (not counted in the seven)",
+  "redirect": "301 /treks/show/snowman-trek-iii → /treks/snowman-trek-iii (at launch only)"
+ },
+ {
+  "oldUrl": "/treks/show/snowman-trek-ii",
+  "pageType": "trek detail",
+  "title": "Snowman Trek II — Paro to Nikachhu",
+  "newUrl": "/treks/snowman-trek-ii",
+  "status": "built — Snowman route variant (not counted in the seven)",
+  "redirect": "301 /treks/show/snowman-trek-ii → /treks/snowman-trek-ii (at launch only)"
+ },
+ {
+  "oldUrl": "/treks/show/snowman-trek",
+  "pageType": "trek detail",
+  "title": "Snowman Trek (Full)",
+  "newUrl": "/treks/snowman-trek",
+  "status": "built — featured trek",
+  "redirect": "301 /treks/show/snowman-trek → /treks/snowman-trek (at launch only)"
+ },
+ {
+  "oldUrl": "/tours/show/3-day-glimpse-of-bhutan",
+  "pageType": "cultural tour detail",
+  "title": "3-Day Glimpse of Bhutan",
+  "newUrl": "/journeys/3-day-glimpse-of-bhutan",
+  "status": "archived — content preserved on old site; not rebuilt in MVP (pending decision)",
+  "redirect": "keep old page reachable or 301 once rebuilt; do not redirect to an unrelated page"
+ },
+ {
+  "oldUrl": "/tours/show/5-day-short-trip-to-bhutan",
+  "pageType": "cultural tour detail",
+  "title": "5-Day Short Trip to Bhutan",
+  "newUrl": "/journeys/5-day-short-trip-to-bhutan",
+  "status": "archived — content preserved on old site; not rebuilt in MVP (pending decision)",
+  "redirect": "keep old page reachable or 301 once rebuilt; do not redirect to an unrelated page"
+ },
+ {
+  "oldUrl": "/tours/show/5-day-western-bhutan",
+  "pageType": "cultural tour detail",
+  "title": "5-Day Western Bhutan",
+  "newUrl": "/journeys/5-day-western-bhutan",
+  "status": "archived — content preserved on old site; not rebuilt in MVP (pending decision)",
+  "redirect": "keep old page reachable or 301 once rebuilt; do not redirect to an unrelated page"
+ },
+ {
+  "oldUrl": "/tours/show/10-day-cultural-tour",
+  "pageType": "cultural tour detail",
+  "title": "10-Day Cultural Tour",
+  "newUrl": "/journeys/10-day-cultural-tour",
+  "status": "archived — content preserved on old site; not rebuilt in MVP (pending decision)",
+  "redirect": "keep old page reachable or 301 once rebuilt; do not redirect to an unrelated page"
+ },
+ {
+  "oldUrl": "/tours/show/12-day-cultural-heartland",
+  "pageType": "cultural tour detail",
+  "title": "12-Day Cultural Heartland",
+  "newUrl": "/journeys/12-day-cultural-heartland",
+  "status": "archived — content preserved on old site; not rebuilt in MVP (pending decision)",
+  "redirect": "keep old page reachable or 301 once rebuilt; do not redirect to an unrelated page"
+ },
+ {
+  "oldUrl": "/info/show/getting-into-bhutan",
+  "pageType": "information article",
+  "title": "Getting into Bhutan",
+  "newUrl": "/plan/getting-into-bhutan",
+  "status": "archived — content preserved on old site; not rebuilt in MVP (pending decision)",
+  "redirect": "keep old page reachable or 301 once rebuilt; do not redirect to an unrelated page"
+ },
+ {
+  "oldUrl": "/info/show/information-for-the-visitors",
+  "pageType": "information article",
+  "title": "Information for the Visitors",
+  "newUrl": "/plan/information-for-the-visitors",
+  "status": "archived — content preserved on old site; not rebuilt in MVP (pending decision)",
+  "redirect": "keep old page reachable or 301 once rebuilt; do not redirect to an unrelated page"
+ },
+ {
+  "oldUrl": "/info/show/plan-your-trip-to-bhutan",
+  "pageType": "information article",
+  "title": "Plan Your Trip to Bhutan",
+  "newUrl": "/plan/plan-your-trip-to-bhutan",
+  "status": "archived — content preserved on old site; not rebuilt in MVP (pending decision)",
+  "redirect": "keep old page reachable or 301 once rebuilt; do not redirect to an unrelated page"
+ },
+ {
+  "oldUrl": "/info/show/trekking-in-bhutan",
+  "pageType": "information article",
+  "title": "Trekking in Bhutan",
+  "newUrl": "/plan/trekking-in-bhutan",
+  "status": "archived — content preserved on old site; not rebuilt in MVP (pending decision)",
+  "redirect": "keep old page reachable or 301 once rebuilt; do not redirect to an unrelated page"
+ },
+ {
+  "oldUrl": "/info/show/packing-list-for-the-trek-in-bhutan",
+  "pageType": "information article",
+  "title": "Packing List for Trek in Bhutan",
+  "newUrl": "/plan/packing-list-for-the-trek-in-bhutan",
+  "status": "archived — content preserved on old site; not rebuilt in MVP (pending decision)",
+  "redirect": "keep old page reachable or 301 once rebuilt; do not redirect to an unrelated page"
+ },
+ {
+  "oldUrl": "/info/show/useful-trekking-information-for-trek",
+  "pageType": "information article",
+  "title": "Useful Trekking Information",
+  "newUrl": "/plan/useful-trekking-information-for-trek",
+  "status": "archived — content preserved on old site; not rebuilt in MVP (pending decision)",
+  "redirect": "keep old page reachable or 301 once rebuilt; do not redirect to an unrelated page"
+ },
+ {
+  "oldUrl": "/info/show/western-bhutan",
+  "pageType": "information article",
+  "title": "Western Bhutan",
+  "newUrl": "/plan/western-bhutan",
+  "status": "archived — content preserved on old site; not rebuilt in MVP (pending decision)",
+  "redirect": "keep old page reachable or 301 once rebuilt; do not redirect to an unrelated page"
+ },
+ {
+  "oldUrl": "/info/show/central-bhutan",
+  "pageType": "information article",
+  "title": "Central Bhutan",
+  "newUrl": "/plan/central-bhutan",
+  "status": "archived — content preserved on old site; not rebuilt in MVP (pending decision)",
+  "redirect": "keep old page reachable or 301 once rebuilt; do not redirect to an unrelated page"
+ },
+ {
+  "oldUrl": "/info/show/eastern-bhutan",
+  "pageType": "information article",
+  "title": "Eastern Bhutan",
+  "newUrl": "/plan/eastern-bhutan",
+  "status": "archived — content preserved on old site; not rebuilt in MVP (pending decision)",
+  "redirect": "keep old page reachable or 301 once rebuilt; do not redirect to an unrelated page"
+ },
+ {
+  "oldUrl": "/info/show/southern-bhutan",
+  "pageType": "information article",
+  "title": "Southern Bhutan",
+  "newUrl": "/plan/southern-bhutan",
+  "status": "archived — content preserved on old site; not rebuilt in MVP (pending decision)",
+  "redirect": "keep old page reachable or 301 once rebuilt; do not redirect to an unrelated page"
+ },
+ {
+  "oldUrl": "/festivals/2026",
+  "pageType": "festival calendar",
+  "title": "Bhutan Festival Dates 2026",
+  "newUrl": "/festivals/2026",
+  "status": "archived — content preserved on old site; not rebuilt in MVP (pending decision)",
+  "redirect": "keep old page reachable or 301 once rebuilt; do not redirect to an unrelated page"
+ },
+ {
+  "oldUrl": "/festivals/2027",
+  "pageType": "festival calendar",
+  "title": "Bhutan Festival Dates 2027",
+  "newUrl": "/festivals/2027",
+  "status": "archived — content preserved on old site; not rebuilt in MVP (pending decision)",
+  "redirect": "keep old page reachable or 301 once rebuilt; do not redirect to an unrelated page"
+ },
+ {
+  "oldUrl": "/videos",
+  "pageType": "video index",
+  "title": "Videos of Bhutan",
+  "newUrl": "/videos",
+  "status": "archived — content preserved on old site; not rebuilt in MVP (pending decision)",
+  "redirect": "keep old page reachable or 301 once rebuilt; do not redirect to an unrelated page"
+ },
+ {
+  "oldUrl": "/gallery",
+  "pageType": "gallery index",
+  "title": "Photo Gallery",
+  "newUrl": "/gallery",
+  "status": "archived — content preserved on old site; not rebuilt in MVP (pending decision)",
+  "redirect": "keep old page reachable or 301 once rebuilt; do not redirect to an unrelated page"
+ }
+]

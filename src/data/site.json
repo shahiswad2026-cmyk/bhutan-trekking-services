@@ -1,0 +1,11 @@
+{
+  "tradingName": { "value": "Bhutan Trekking Services", "verification": "as-stated", "source": "https://bhutantrekkings.com/about" },
+  "legalName": { "value": null, "verification": "missing", "source": null },
+  "licenceNumber": { "value": null, "verification": "missing", "source": null },
+  "licensingAuthority": { "value": null, "verification": "conflict", "source": "https://bhutantrekkings.com/about", "note": "About says 'Tourism Council of Bhutan'; badge says 'DoT'. Not displayed until confirmed." },
+  "location": { "value": "Thimphu, Bhutan", "verification": "as-stated", "source": "https://bhutantrekkings.com/contact" },
+  "email": { "value": "trekkingservices@gmail.com", "verification": "as-stated", "source": "https://bhutantrekkings.com/contact" },
+  "whatsapp": { "value": "97577773338", "display": "+975 77773338", "verification": "as-stated", "confirmedByClient": false, "source": "https://bhutantrekkings.com/contact", "note": "Published on the old contact page as WhatsApp, phone and enquiry number. Pending client confirmation before public launch." },
+  "phone": { "value": "+97577773338", "display": "+975 77773338", "verification": "as-stated", "source": "https://bhutantrekkings.com/contact" },
+  "youtube": { "value": "https://www.youtube.com/@Gateway_to_Bhutan", "verification": "conflict", "source": "https://bhutantrekkings.com/videos", "note": "Handle does not match brand name; ownership unconfirmed." }
+}
