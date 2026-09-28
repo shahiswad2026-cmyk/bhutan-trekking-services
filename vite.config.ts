@@ -13,6 +13,7 @@ export default defineConfig({
     server: { entry: "server" },
     // Static prerender of every content page (data edits -> rebuild -> new HTML). Keep in sync with src/data/treks.json.
     pages: [{"path": "/"}, {"path": "/treks"}, {"path": "/about"}, {"path": "/contact"}, {"path": "/archive"}, {"path": "/treks/bumdra-trek"}, {"path": "/treks/druk-path-trek"}, {"path": "/treks/dagala-thousand-lakes-trek"}, {"path": "/treks/jomolhari-round-trek"}, {"path": "/treks/soi-yaksa-trek"}, {"path": "/treks/laya-lingzhi-trek"}, {"path": "/treks/snowman-trek"}, {"path": "/treks/snowman-trek-ii"}, {"path": "/treks/snowman-trek-iii"}, {"path": "/treks/snowman-trek-iv"}],
-    prerender: { enabled: true, autoStaticPathsDiscovery: false },
+    // Prerender disabled: on Vercel it emptied .vercel/output (404). Pages render via the server function instead.
+    prerender: { enabled: false, autoStaticPathsDiscovery: false },
   },
 });
